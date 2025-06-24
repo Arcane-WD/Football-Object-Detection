@@ -105,7 +105,7 @@ pip install -r requirements.txt
 | 03:41:50 | Perspective Transformer          |
 | 04:05:40 | Speed & Distance Estimator       |
 
-> See full video [here](https://github.com/abdullahtarek/footbal-objdetection) (YouTube link from tutorial)
+> See full video [here](https://youtu.be/neBZ6huolkg?si=FriMCuD-GnvYV-1a)
 
 ---
 
