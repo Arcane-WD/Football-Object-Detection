@@ -1,0 +1,24 @@
+# Python virtual environment (uv specific)
+.venv/
+.python-version
+uv.lock
+
+# Byte-compiled / optimized / DLL files
+__pycache__/
+*.pyc
+*.pyd
+*.so
+
+# Jupyter Notebook files
+.ipynb_checkpoints
+
+# IDE specific files (e.g., VS Code)
+models/
+Outputs/
+.vscode/
+
+runs/
+stubs/
+
+# Logs
+*.log
