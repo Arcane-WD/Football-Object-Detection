@@ -3,7 +3,7 @@
 
 This project is a full-fledged Football Analysis System built using **YOLOv8**, **OpenCV**, **PyTorch**, and **Computer Vision techniques**. It demonstrates real-time **object detection**, **player tracking**, **team assignment**, **camera motion compensation**, **speed and distance estimation**, and **perspective transformation** — all aimed at analyzing football matches intelligently.
 
-> Inspired by the tutorial by [Abdullah Tarek](https://github.com/abdullahtarek/footbal-objdetection)
+> Inspired by the tutorial by [Code In a Jiffy](https://youtu.be/neBZ6huolkg?si=FriMCuD-GnvYV-1a)
 
 ---
 
@@ -51,7 +51,7 @@ FOOTBALL\_OBJECTDETECTION/
 
 ```bash
 # Clone the repository
-git clone https://github.com/your-username/football-object-detection.git
+git clone https://github.com/Arcane-WD/football-object-detection.git
 cd football-object-detection
 
 # Install dependencies using uv (recommended)
@@ -133,7 +133,7 @@ This project is for educational and research purposes. Please credit the origina
 ## 🙌 Credits
 
 * [Ultralytics YOLOv5](https://github.com/ultralytics/ultralytics)
-* [Abdullah Tarek YouTube Tutorial](https://youtu.be/neBZ6huolkg?si=FriMCuD-GnvYV-1a)
+* [Code In a Jiffy YouTube Tutorial](https://youtu.be/neBZ6huolkg?si=FriMCuD-GnvYV-1a)
 * Roboflow & Kaggle for datasets
 
 ---
