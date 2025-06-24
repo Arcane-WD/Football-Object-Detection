@@ -1,7 +1,7 @@
 
 # ⚽ Football Object Detection & Analysis System
 
-This project is a full-fledged Football Analysis System built using **YOLOv8**, **OpenCV**, **PyTorch**, and **Computer Vision techniques**. It demonstrates real-time **object detection**, **player tracking**, **team assignment**, **camera motion compensation**, **speed and distance estimation**, and **perspective transformation** — all aimed at analyzing football matches intelligently.
+This project is a full-fledged Football Analysis System built using **YOLOv5**, **OpenCV**, **PyTorch**, and **Computer Vision techniques**. It demonstrates real-time **object detection**, **player tracking**, **team assignment**, **camera motion compensation**, **speed and distance estimation**, and **perspective transformation** — all aimed at analyzing football matches intelligently.
 
 > Inspired by the tutorial by [Code In a Jiffy](https://youtu.be/neBZ6huolkg?si=FriMCuD-GnvYV-1a)
 
@@ -81,7 +81,7 @@ pip install -r requirements.txt
 
 | Feature                         | Description                                          |
 | ------------------------------- | ---------------------------------------------------- |
-| **YOLOv8 Object Detection**     | Detect players, referees, and the ball in each frame |
+| **YOLOv5 Object Detection**     | Detect players, referees, and the ball in each frame |
 | **Custom Model Training**       | Train your own YOLO model using annotated data       |
 | **Tracking**                    | Track objects across frames using bounding boxes     |
 | **Team Color Clustering**       | Assign teams using KMeans on jersey color            |
