@@ -108,9 +108,16 @@ pip install -r requirements.txt
 
 ---
 
-## 📂 Sample Output
+## 📂 Sample Input vs Output
+
+### 🎬 Input Video (Raw Frame)
+![Input Video](readme_gifs/inputgif.gif)
+
+### 🧠 Output Video (Annotated + Tracked)
+![Output Video](readme_gifs\outputgif.gif)
 
 Outputs such as tracked videos, player labels, and speed overlays are saved in the `/Outputs` directory.
+
 
 ---
 
