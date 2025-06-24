@@ -1,5 +1,4 @@
 
-```
 # ⚽ Football Object Detection & Analysis System
 
 This project is a full-fledged Football Analysis System built using **YOLOv8**, **OpenCV**, **PyTorch**, and **Computer Vision techniques**. It demonstrates real-time **object detection**, **player tracking**, **team assignment**, **camera motion compensation**, **speed and distance estimation**, and **perspective transformation** — all aimed at analyzing football matches intelligently.
